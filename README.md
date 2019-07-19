@@ -11,4 +11,5 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 ### Extra
 
 [Simple Radar](http://simpleradar.com/) - Default Theme
+
 [VibranceGUI by JuvlarN](http://vibrancegui.com/) - Ingame Vibrance: 100%
