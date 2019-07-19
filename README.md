@@ -8,3 +8,7 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
+### Extra
+
+[Simple Radar](http://simpleradar.com/) - Default Theme
+[VibranceGUI by JuvlarN](http://vibrancegui.com/) - Ingame Vibrance: 100%
